@@ -1,0 +1,12 @@
+Source: ros-galactic-turtlebot4-base
+Section: misc
+Priority: optional
+Maintainer: rkreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libgpiod-dev, ros-galactic-ament-cmake, ros-galactic-ament-lint-auto <!nocheck>, ros-galactic-ament-lint-common <!nocheck>, ros-galactic-irobot-create-msgs, ros-galactic-rclcpp, ros-galactic-rclcpp-action, ros-galactic-rcutils, ros-galactic-sensor-msgs, ros-galactic-std-msgs, ros-galactic-turtlebot4-msgs, ros-galactic-turtlebot4-node, ros-galactic-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-turtlebot4-base
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libgpiod-dev, ros-galactic-irobot-create-msgs, ros-galactic-rclcpp, ros-galactic-rclcpp-action, ros-galactic-rcutils, ros-galactic-sensor-msgs, ros-galactic-std-msgs, ros-galactic-turtlebot4-msgs, ros-galactic-turtlebot4-node, ros-galactic-ros-workspace
+Description: Turtlebot4 Base Node
