@@ -1,0 +1,12 @@
+Source: ros-galactic-turtlebot4-diagnostics
+Section: misc
+Priority: optional
+Maintainer: rkreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest <!nocheck>, ros-galactic-ament-copyright <!nocheck>, ros-galactic-ament-flake8 <!nocheck>, ros-galactic-ament-pep257 <!nocheck>, ros-galactic-diagnostic-aggregator, ros-galactic-diagnostic-msgs, ros-galactic-diagnostic-updater, ros-galactic-irobot-create-msgs, ros-galactic-rclpy, ros-galactic-sensor-msgs, ros-galactic-ros-workspace, python3-all, python3-setuptools, dh-python
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-turtlebot4-diagnostics
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-galactic-diagnostic-aggregator, ros-galactic-diagnostic-msgs, ros-galactic-diagnostic-updater, ros-galactic-irobot-create-msgs, ros-galactic-rclpy, ros-galactic-sensor-msgs, ros-galactic-ros-workspace
+Description: Turtlebot4 Diagnostics
