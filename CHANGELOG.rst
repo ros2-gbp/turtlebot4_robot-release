@@ -2,6 +2,11 @@
 Changelog for package turtlebot4_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.2 (2022-05-30)
+------------------
+* Removed cyclonedds uri from launch files
+* Contributors: Roni Kreinin
+
 0.1.1 (2022-05-24)
 ------------------
 
