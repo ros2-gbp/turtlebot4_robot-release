@@ -1,0 +1,12 @@
+Source: ros-galactic-turtlebot4-bringup
+Section: misc
+Priority: optional
+Maintainer: rkreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-ament-lint-auto <!nocheck>, ros-galactic-ament-lint-common <!nocheck>, ros-galactic-depthai-bridge, ros-galactic-depthai-examples, ros-galactic-depthai-ros-msgs, ros-galactic-joy-linux, ros-galactic-rplidar-ros, ros-galactic-teleop-twist-joy, ros-galactic-tf2-ros, ros-galactic-turtlebot4-description, ros-galactic-turtlebot4-diagnostics, ros-galactic-turtlebot4-node, ros-galactic-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-turtlebot4-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-depthai-bridge, ros-galactic-depthai-examples, ros-galactic-depthai-ros-msgs, ros-galactic-joy-linux, ros-galactic-rplidar-ros, ros-galactic-teleop-twist-joy, ros-galactic-tf2-ros, ros-galactic-turtlebot4-description, ros-galactic-turtlebot4-diagnostics, ros-galactic-turtlebot4-node, ros-galactic-ros-workspace
+Description: Turtlebot4 Robot Bringup
