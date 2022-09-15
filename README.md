@@ -1,3 +1,31 @@
+## turtlebot4_robot (galactic) - 0.1.3-1
+
+The packages in the `turtlebot4_robot` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic --track galactic turtlebot4_robot` on `Thu, 15 Sep 2022 17:50:30 -0000`
+
+These packages were released:
+- `turtlebot4_base`
+- `turtlebot4_bringup`
+- `turtlebot4_diagnostics`
+- `turtlebot4_robot`
+- `turtlebot4_tests`
+
+Version of package(s) in repository `turtlebot4_robot`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot4_robot.git
+- release repository: https://github.com/ros2-gbp/turtlebot4_robot-release.git
+- rosdistro version: `0.1.2-1`
+- old version: `0.1.2-1`
+- new version: `0.1.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.1`
+- catkin_pkg version: `0.5.0`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot4_robot (galactic) - 0.1.2-1
 
 The packages in the `turtlebot4_robot` repository were released into the `galactic` distro by running `/usr/bin/bloom-release --rosdistro galactic --track galactic turtlebot4_robot` on `Mon, 30 May 2022 16:32:39 -0000`
