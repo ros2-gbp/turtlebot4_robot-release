@@ -2,6 +2,9 @@
 Changelog for package turtlebot4_diagnostics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.3 (2024-07-02)
+------------------
+
 1.0.2 (2023-11-08)
 ------------------
 * Merge pull request <https://github.com/turtlebot/turtlebot4_robot/issues/26>
