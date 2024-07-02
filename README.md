@@ -1,3 +1,31 @@
+## turtlebot4_robot (humble) - 1.0.3-1
+
+The packages in the `turtlebot4_robot` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble turtlebot4_robot` on `Tue, 02 Jul 2024 15:41:47 -0000`
+
+These packages were released:
+- `turtlebot4_base`
+- `turtlebot4_bringup`
+- `turtlebot4_diagnostics`
+- `turtlebot4_robot`
+- `turtlebot4_tests`
+
+Version of package(s) in repository `turtlebot4_robot`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot4_robot.git
+- release repository: https://github.com/ros2-gbp/turtlebot4_robot-release.git
+- rosdistro version: `1.0.2-1`
+- old version: `1.0.2-1`
+- new version: `1.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot4_robot (humble) - 1.0.2-1
 
 The packages in the `turtlebot4_robot` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble turtlebot4_robot` on `Wed, 08 Nov 2023 21:58:25 -0000`
